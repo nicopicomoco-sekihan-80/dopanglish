@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dopanglish</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Zen+Kaku+Gothic+New:wght@400;500;700;900&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <canvas id="bg-canvas" aria-hidden="true"></canvas>
+    <div id="answer-reveal" class="answer-reveal" aria-live="polite" aria-atomic="true" hidden>
+      <span id="reveal-word" class="reveal-word"></span>
+      <span class="reveal-separator">:</span>
+      <span id="reveal-meaning" class="reveal-meaning"></span>
+      <span id="reveal-combo" class="reveal-combo" hidden></span>
+    </div>
+
+    <div class="hud">
+      <div class="brand">DOPANGLISH</div>
+      <div class="stats">
+        <div class="stat-box">
+          <span class="label">SCORE</span>
+          <span id="score">0</span>
+        </div>
+        <div class="stat-box">
+          <span class="label">BEST</span>
+          <span id="best-score">0</span>
+        </div>
+        <div class="stat-box">
+          <span class="label">COMBO</span>
+          <span id="combo">x0</span>
+        </div>
+        <div class="stat-box">
+          <span class="label">Q</span>
+          <span id="question-index">1</span>
+        </div>
+      </div>
+    </div>
+
+    <canvas id="word-stream-canvas" aria-hidden="true"></canvas>
+
+    <main class="game-shell">
+      <section class="question-panel">
+        <div id="status" class="status">READY</div>
+        <div class="word-wrap">
+          <div class="word-label">WORD</div>
+          <div id="difficulty" class="difficulty" aria-live="polite"></div>
+          <div id="word" class="word">ABUNDANT</div>
+        </div>
+        <p id="prompt" class="prompt">意味として正しいものは？</p>
+      </section>
+
+      <section id="answers" class="answers" aria-label="Answer choices"></section>
+
+      <button id="start-btn" class="start-btn">START</button>
+    </main>
+
+    <script src="./words.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

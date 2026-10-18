@@ -1,0 +1,3812 @@
+[
+  {
+    "word": "ability",
+    "meaning": "能力",
+    "difficulty": 2
+  },
+  {
+    "word": "able",
+    "meaning": "できる",
+    "difficulty": 1
+  },
+  {
+    "word": "about",
+    "meaning": "～について",
+    "difficulty": 1
+  },
+  {
+    "word": "above",
+    "meaning": "～の上に",
+    "difficulty": 1
+  },
+  {
+    "word": "abroad",
+    "meaning": "海外へ",
+    "difficulty": 2
+  },
+  {
+    "word": "accept",
+    "meaning": "受け入れる",
+    "difficulty": 2
+  },
+  {
+    "word": "accident",
+    "meaning": "事故",
+    "difficulty": 1
+  },
+  {
+    "word": "across",
+    "meaning": "～を横切って",
+    "difficulty": 1
+  },
+  {
+    "word": "act",
+    "meaning": "行動する",
+    "difficulty": 1
+  },
+  {
+    "word": "action",
+    "meaning": "行動",
+    "difficulty": 1
+  },
+  {
+    "word": "active",
+    "meaning": "活発な",
+    "difficulty": 1
+  },
+  {
+    "word": "activity",
+    "meaning": "活動",
+    "difficulty": 1
+  },
+  {
+    "word": "add",
+    "meaning": "加える",
+    "difficulty": 1
+  },
+  {
+    "word": "address",
+    "meaning": "住所",
+    "difficulty": 1
+  },
+  {
+    "word": "admire",
+    "meaning": "感心する",
+    "difficulty": 3
+  },
+  {
+    "word": "advice",
+    "meaning": "助言",
+    "difficulty": 2
+  },
+  {
+    "word": "afraid",
+    "meaning": "恐れて",
+    "difficulty": 1
+  },
+  {
+    "word": "after",
+    "meaning": "～の後に",
+    "difficulty": 1
+  },
+  {
+    "word": "afternoon",
+    "meaning": "午後",
+    "difficulty": 1
+  },
+  {
+    "word": "again",
+    "meaning": "再び",
+    "difficulty": 1
+  },
+  {
+    "word": "against",
+    "meaning": "～に反対して",
+    "difficulty": 2
+  },
+  {
+    "word": "age",
+    "meaning": "年齢",
+    "difficulty": 1
+  },
+  {
+    "word": "ago",
+    "meaning": "～前に",
+    "difficulty": 1
+  },
+  {
+    "word": "agree",
+    "meaning": "賛成する",
+    "difficulty": 1
+  },
+  {
+    "word": "air",
+    "meaning": "空気",
+    "difficulty": 1
+  },
+  {
+    "word": "airport",
+    "meaning": "空港",
+    "difficulty": 1
+  },
+  {
+    "word": "album",
+    "meaning": "アルバム",
+    "difficulty": 1
+  },
+  {
+    "word": "alive",
+    "meaning": "生きている",
+    "difficulty": 1
+  },
+  {
+    "word": "all",
+    "meaning": "すべて",
+    "difficulty": 1
+  },
+  {
+    "word": "almost",
+    "meaning": "ほとんど",
+    "difficulty": 1
+  },
+  {
+    "word": "alone",
+    "meaning": "ひとりで",
+    "difficulty": 1
+  },
+  {
+    "word": "along",
+    "meaning": "～に沿って",
+    "difficulty": 2
+  },
+  {
+    "word": "already",
+    "meaning": "すでに",
+    "difficulty": 1
+  },
+  {
+    "word": "also",
+    "meaning": "～もまた",
+    "difficulty": 1
+  },
+  {
+    "word": "always",
+    "meaning": "いつも",
+    "difficulty": 1
+  },
+  {
+    "word": "amazing",
+    "meaning": "驚くべき",
+    "difficulty": 2
+  },
+  {
+    "word": "among",
+    "meaning": "～の間で",
+    "difficulty": 2
+  },
+  {
+    "word": "animal",
+    "meaning": "動物",
+    "difficulty": 1
+  },
+  {
+    "word": "another",
+    "meaning": "もう一つの",
+    "difficulty": 1
+  },
+  {
+    "word": "answer",
+    "meaning": "答える",
+    "difficulty": 1
+  },
+  {
+    "word": "any",
+    "meaning": "いくつかの",
+    "difficulty": 1
+  },
+  {
+    "word": "anyone",
+    "meaning": "だれか",
+    "difficulty": 1
+  },
+  {
+    "word": "anything",
+    "meaning": "何か",
+    "difficulty": 1
+  },
+  {
+    "word": "apartment",
+    "meaning": "アパート",
+    "difficulty": 2
+  },
+  {
+    "word": "appear",
+    "meaning": "現れる",
+    "difficulty": 1
+  },
+  {
+    "word": "apple",
+    "meaning": "りんご",
+    "difficulty": 1
+  },
+  {
+    "word": "April",
+    "meaning": "4月",
+    "difficulty": 1
+  },
+  {
+    "word": "area",
+    "meaning": "地域",
+    "difficulty": 1
+  },
+  {
+    "word": "arm",
+    "meaning": "腕",
+    "difficulty": 1
+  },
+  {
+    "word": "around",
+    "meaning": "～の周りに",
+    "difficulty": 1
+  },
+  {
+    "word": "arrive",
+    "meaning": "到着する",
+    "difficulty": 1
+  },
+  {
+    "word": "art",
+    "meaning": "芸術",
+    "difficulty": 1
+  },
+  {
+    "word": "artist",
+    "meaning": "芸術家",
+    "difficulty": 1
+  },
+  {
+    "word": "as",
+    "meaning": "～として",
+    "difficulty": 1
+  },
+  {
+    "word": "ask",
+    "meaning": "たずねる",
+    "difficulty": 1
+  },
+  {
+    "word": "at",
+    "meaning": "～で",
+    "difficulty": 1
+  },
+  {
+    "word": "August",
+    "meaning": "8月",
+    "difficulty": 1
+  },
+  {
+    "word": "aunt",
+    "meaning": "おば",
+    "difficulty": 1
+  },
+  {
+    "word": "away",
+    "meaning": "離れて",
+    "difficulty": 1
+  },
+  {
+    "word": "awesome",
+    "meaning": "すばらしい",
+    "difficulty": 2
+  },
+  {
+    "word": "back",
+    "meaning": "後ろ",
+    "difficulty": 1
+  },
+  {
+    "word": "bad",
+    "meaning": "悪い",
+    "difficulty": 1
+  },
+  {
+    "word": "bag",
+    "meaning": "かばん",
+    "difficulty": 1
+  },
+  {
+    "word": "ball",
+    "meaning": "ボール",
+    "difficulty": 1
+  },
+  {
+    "word": "banana",
+    "meaning": "バナナ",
+    "difficulty": 1
+  },
+  {
+    "word": "bank",
+    "meaning": "銀行",
+    "difficulty": 1
+  },
+  {
+    "word": "baseball",
+    "meaning": "野球",
+    "difficulty": 1
+  },
+  {
+    "word": "basket",
+    "meaning": "かご",
+    "difficulty": 1
+  },
+  {
+    "word": "basketball",
+    "meaning": "バスケットボール",
+    "difficulty": 1
+  },
+  {
+    "word": "beautiful",
+    "meaning": "美しい",
+    "difficulty": 1
+  },
+  {
+    "word": "because",
+    "meaning": "なぜなら",
+    "difficulty": 1
+  },
+  {
+    "word": "become",
+    "meaning": "～になる",
+    "difficulty": 1
+  },
+  {
+    "word": "bed",
+    "meaning": "ベッド",
+    "difficulty": 1
+  },
+  {
+    "word": "before",
+    "meaning": "～の前に",
+    "difficulty": 1
+  },
+  {
+    "word": "begin",
+    "meaning": "始める",
+    "difficulty": 1
+  },
+  {
+    "word": "beginning",
+    "meaning": "始まり",
+    "difficulty": 1
+  },
+  {
+    "word": "behind",
+    "meaning": "～の後ろに",
+    "difficulty": 1
+  },
+  {
+    "word": "believe",
+    "meaning": "信じる",
+    "difficulty": 1
+  },
+  {
+    "word": "bell",
+    "meaning": "ベル",
+    "difficulty": 1
+  },
+  {
+    "word": "below",
+    "meaning": "～の下に",
+    "difficulty": 2
+  },
+  {
+    "word": "best",
+    "meaning": "最もよい",
+    "difficulty": 1
+  },
+  {
+    "word": "better",
+    "meaning": "よりよい",
+    "difficulty": 1
+  },
+  {
+    "word": "between",
+    "meaning": "～の間に",
+    "difficulty": 1
+  },
+  {
+    "word": "bicycle",
+    "meaning": "自転車",
+    "difficulty": 1
+  },
+  {
+    "word": "big",
+    "meaning": "大きい",
+    "difficulty": 1
+  },
+  {
+    "word": "bike",
+    "meaning": "自転車",
+    "difficulty": 1
+  },
+  {
+    "word": "bird",
+    "meaning": "鳥",
+    "difficulty": 1
+  },
+  {
+    "word": "birthday",
+    "meaning": "誕生日",
+    "difficulty": 1
+  },
+  {
+    "word": "black",
+    "meaning": "黒い",
+    "difficulty": 1
+  },
+  {
+    "word": "blue",
+    "meaning": "青い",
+    "difficulty": 1
+  },
+  {
+    "word": "boat",
+    "meaning": "ボート",
+    "difficulty": 1
+  },
+  {
+    "word": "body",
+    "meaning": "体",
+    "difficulty": 1
+  },
+  {
+    "word": "book",
+    "meaning": "本",
+    "difficulty": 1
+  },
+  {
+    "word": "borrow",
+    "meaning": "借りる",
+    "difficulty": 1
+  },
+  {
+    "word": "both",
+    "meaning": "両方",
+    "difficulty": 1
+  },
+  {
+    "word": "bottle",
+    "meaning": "びん",
+    "difficulty": 1
+  },
+  {
+    "word": "box",
+    "meaning": "箱",
+    "difficulty": 1
+  },
+  {
+    "word": "boy",
+    "meaning": "少年",
+    "difficulty": 1
+  },
+  {
+    "word": "break",
+    "meaning": "壊す",
+    "difficulty": 1
+  },
+  {
+    "word": "breakfast",
+    "meaning": "朝食",
+    "difficulty": 1
+  },
+  {
+    "word": "bridge",
+    "meaning": "橋",
+    "difficulty": 1
+  },
+  {
+    "word": "bright",
+    "meaning": "明るい",
+    "difficulty": 1
+  },
+  {
+    "word": "bring",
+    "meaning": "持ってくる",
+    "difficulty": 1
+  },
+  {
+    "word": "brother",
+    "meaning": "兄弟",
+    "difficulty": 1
+  },
+  {
+    "word": "brown",
+    "meaning": "茶色",
+    "difficulty": 1
+  },
+  {
+    "word": "build",
+    "meaning": "建てる",
+    "difficulty": 1
+  },
+  {
+    "word": "building",
+    "meaning": "建物",
+    "difficulty": 1
+  },
+  {
+    "word": "busy",
+    "meaning": "忙しい",
+    "difficulty": 1
+  },
+  {
+    "word": "but",
+    "meaning": "しかし",
+    "difficulty": 1
+  },
+  {
+    "word": "buy",
+    "meaning": "買う",
+    "difficulty": 1
+  },
+  {
+    "word": "by",
+    "meaning": "～によって",
+    "difficulty": 1
+  },
+  {
+    "word": "cake",
+    "meaning": "ケーキ",
+    "difficulty": 1
+  },
+  {
+    "word": "call",
+    "meaning": "呼ぶ",
+    "difficulty": 1
+  },
+  {
+    "word": "camera",
+    "meaning": "カメラ",
+    "difficulty": 1
+  },
+  {
+    "word": "camp",
+    "meaning": "キャンプ",
+    "difficulty": 1
+  },
+  {
+    "word": "can",
+    "meaning": "～できる",
+    "difficulty": 1
+  },
+  {
+    "word": "candy",
+    "meaning": "あめ",
+    "difficulty": 1
+  },
+  {
+    "word": "cap",
+    "meaning": "帽子",
+    "difficulty": 1
+  },
+  {
+    "word": "capital",
+    "meaning": "首都",
+    "difficulty": 2
+  },
+  {
+    "word": "captain",
+    "meaning": "主将",
+    "difficulty": 2
+  },
+  {
+    "word": "car",
+    "meaning": "車",
+    "difficulty": 1
+  },
+  {
+    "word": "card",
+    "meaning": "カード",
+    "difficulty": 1
+  },
+  {
+    "word": "care",
+    "meaning": "世話",
+    "difficulty": 1
+  },
+  {
+    "word": "careful",
+    "meaning": "注意深い",
+    "difficulty": 1
+  },
+  {
+    "word": "carry",
+    "meaning": "運ぶ",
+    "difficulty": 1
+  },
+  {
+    "word": "catch",
+    "meaning": "捕まえる",
+    "difficulty": 1
+  },
+  {
+    "word": "center",
+    "meaning": "中心",
+    "difficulty": 1
+  },
+  {
+    "word": "century",
+    "meaning": "世紀",
+    "difficulty": 2
+  },
+  {
+    "word": "chair",
+    "meaning": "いす",
+    "difficulty": 1
+  },
+  {
+    "word": "chance",
+    "meaning": "機会",
+    "difficulty": 1
+  },
+  {
+    "word": "change",
+    "meaning": "変える",
+    "difficulty": 1
+  },
+  {
+    "word": "check",
+    "meaning": "確かめる",
+    "difficulty": 1
+  },
+  {
+    "word": "cheese",
+    "meaning": "チーズ",
+    "difficulty": 1
+  },
+  {
+    "word": "chicken",
+    "meaning": "鶏肉",
+    "difficulty": 1
+  },
+  {
+    "word": "child",
+    "meaning": "子ども",
+    "difficulty": 1
+  },
+  {
+    "word": "children",
+    "meaning": "子どもたち",
+    "difficulty": 1
+  },
+  {
+    "word": "China",
+    "meaning": "中国",
+    "difficulty": 1
+  },
+  {
+    "word": "chocolate",
+    "meaning": "チョコレート",
+    "difficulty": 1
+  },
+  {
+    "word": "choose",
+    "meaning": "選ぶ",
+    "difficulty": 1
+  },
+  {
+    "word": "city",
+    "meaning": "都市",
+    "difficulty": 1
+  },
+  {
+    "word": "class",
+    "meaning": "授業",
+    "difficulty": 1
+  },
+  {
+    "word": "classmate",
+    "meaning": "クラスメート",
+    "difficulty": 1
+  },
+  {
+    "word": "classroom",
+    "meaning": "教室",
+    "difficulty": 1
+  },
+  {
+    "word": "clean",
+    "meaning": "きれいな",
+    "difficulty": 1
+  },
+  {
+    "word": "clerk",
+    "meaning": "店員",
+    "difficulty": 2
+  },
+  {
+    "word": "climb",
+    "meaning": "登る",
+    "difficulty": 1
+  },
+  {
+    "word": "clock",
+    "meaning": "時計",
+    "difficulty": 1
+  },
+  {
+    "word": "close",
+    "meaning": "閉める",
+    "difficulty": 1
+  },
+  {
+    "word": "clothes",
+    "meaning": "服",
+    "difficulty": 1
+  },
+  {
+    "word": "cloud",
+    "meaning": "雲",
+    "difficulty": 1
+  },
+  {
+    "word": "club",
+    "meaning": "部",
+    "difficulty": 1
+  },
+  {
+    "word": "coat",
+    "meaning": "コート",
+    "difficulty": 1
+  },
+  {
+    "word": "coffee",
+    "meaning": "コーヒー",
+    "difficulty": 1
+  },
+  {
+    "word": "cold",
+    "meaning": "寒い",
+    "difficulty": 1
+  },
+  {
+    "word": "collect",
+    "meaning": "集める",
+    "difficulty": 1
+  },
+  {
+    "word": "color",
+    "meaning": "色",
+    "difficulty": 1
+  },
+  {
+    "word": "come",
+    "meaning": "来る",
+    "difficulty": 1
+  },
+  {
+    "word": "comfortable",
+    "meaning": "快適な",
+    "difficulty": 2
+  },
+  {
+    "word": "comic",
+    "meaning": "漫画",
+    "difficulty": 1
+  },
+  {
+    "word": "common",
+    "meaning": "共通の",
+    "difficulty": 2
+  },
+  {
+    "word": "computer",
+    "meaning": "コンピューター",
+    "difficulty": 1
+  },
+  {
+    "word": "concert",
+    "meaning": "コンサート",
+    "difficulty": 1
+  },
+  {
+    "word": "cook",
+    "meaning": "料理する",
+    "difficulty": 1
+  },
+  {
+    "word": "cool",
+    "meaning": "涼しい",
+    "difficulty": 1
+  },
+  {
+    "word": "country",
+    "meaning": "国",
+    "difficulty": 1
+  },
+  {
+    "word": "course",
+    "meaning": "課程",
+    "difficulty": 1
+  },
+  {
+    "word": "cousin",
+    "meaning": "いとこ",
+    "difficulty": 1
+  },
+  {
+    "word": "cover",
+    "meaning": "おおう",
+    "difficulty": 1
+  },
+  {
+    "word": "cow",
+    "meaning": "牛",
+    "difficulty": 1
+  },
+  {
+    "word": "create",
+    "meaning": "作り出す",
+    "difficulty": 2
+  },
+  {
+    "word": "culture",
+    "meaning": "文化",
+    "difficulty": 2
+  },
+  {
+    "word": "cup",
+    "meaning": "カップ",
+    "difficulty": 1
+  },
+  {
+    "word": "cut",
+    "meaning": "切る",
+    "difficulty": 1
+  },
+  {
+    "word": "dad",
+    "meaning": "お父さん",
+    "difficulty": 1
+  },
+  {
+    "word": "dance",
+    "meaning": "踊る",
+    "difficulty": 1
+  },
+  {
+    "word": "dancer",
+    "meaning": "ダンサー",
+    "difficulty": 1
+  },
+  {
+    "word": "danger",
+    "meaning": "危険",
+    "difficulty": 1
+  },
+  {
+    "word": "dark",
+    "meaning": "暗い",
+    "difficulty": 1
+  },
+  {
+    "word": "date",
+    "meaning": "日付",
+    "difficulty": 1
+  },
+  {
+    "word": "daughter",
+    "meaning": "娘",
+    "difficulty": 1
+  },
+  {
+    "word": "day",
+    "meaning": "日",
+    "difficulty": 1
+  },
+  {
+    "word": "December",
+    "meaning": "12月",
+    "difficulty": 1
+  },
+  {
+    "word": "decide",
+    "meaning": "決める",
+    "difficulty": 1
+  },
+  {
+    "word": "deep",
+    "meaning": "深い",
+    "difficulty": 1
+  },
+  {
+    "word": "delicious",
+    "meaning": "おいしい",
+    "difficulty": 1
+  },
+  {
+    "word": "desk",
+    "meaning": "机",
+    "difficulty": 1
+  },
+  {
+    "word": "diary",
+    "meaning": "日記",
+    "difficulty": 1
+  },
+  {
+    "word": "dictionary",
+    "meaning": "辞書",
+    "difficulty": 1
+  },
+  {
+    "word": "different",
+    "meaning": "異なる",
+    "difficulty": 1
+  },
+  {
+    "word": "difficult",
+    "meaning": "難しい",
+    "difficulty": 1
+  },
+  {
+    "word": "dinner",
+    "meaning": "夕食",
+    "difficulty": 1
+  },
+  {
+    "word": "dirty",
+    "meaning": "汚い",
+    "difficulty": 1
+  },
+  {
+    "word": "discover",
+    "meaning": "発見する",
+    "difficulty": 2
+  },
+  {
+    "word": "dish",
+    "meaning": "皿",
+    "difficulty": 1
+  },
+  {
+    "word": "do",
+    "meaning": "する",
+    "difficulty": 1
+  },
+  {
+    "word": "doctor",
+    "meaning": "医者",
+    "difficulty": 1
+  },
+  {
+    "word": "dog",
+    "meaning": "犬",
+    "difficulty": 1
+  },
+  {
+    "word": "dollar",
+    "meaning": "ドル",
+    "difficulty": 1
+  },
+  {
+    "word": "door",
+    "meaning": "ドア",
+    "difficulty": 1
+  },
+  {
+    "word": "down",
+    "meaning": "下へ",
+    "difficulty": 1
+  },
+  {
+    "word": "draw",
+    "meaning": "描く",
+    "difficulty": 1
+  },
+  {
+    "word": "dream",
+    "meaning": "夢",
+    "difficulty": 1
+  },
+  {
+    "word": "dress",
+    "meaning": "ドレス",
+    "difficulty": 1
+  },
+  {
+    "word": "drink",
+    "meaning": "飲む",
+    "difficulty": 1
+  },
+  {
+    "word": "drive",
+    "meaning": "運転する",
+    "difficulty": 1
+  },
+  {
+    "word": "driver",
+    "meaning": "運転手",
+    "difficulty": 1
+  },
+  {
+    "word": "during",
+    "meaning": "～の間に",
+    "difficulty": 2
+  },
+  {
+    "word": "each",
+    "meaning": "それぞれの",
+    "difficulty": 1
+  },
+  {
+    "word": "early",
+    "meaning": "早い",
+    "difficulty": 1
+  },
+  {
+    "word": "earn",
+    "meaning": "かせぐ",
+    "difficulty": 2
+  },
+  {
+    "word": "earth",
+    "meaning": "地球",
+    "difficulty": 1
+  },
+  {
+    "word": "east",
+    "meaning": "東",
+    "difficulty": 1
+  },
+  {
+    "word": "easy",
+    "meaning": "簡単な",
+    "difficulty": 1
+  },
+  {
+    "word": "eat",
+    "meaning": "食べる",
+    "difficulty": 1
+  },
+  {
+    "word": "egg",
+    "meaning": "卵",
+    "difficulty": 1
+  },
+  {
+    "word": "eight",
+    "meaning": "8",
+    "difficulty": 1
+  },
+  {
+    "word": "eighteen",
+    "meaning": "18",
+    "difficulty": 1
+  },
+  {
+    "word": "eighth",
+    "meaning": "8番目",
+    "difficulty": 1
+  },
+  {
+    "word": "eighty",
+    "meaning": "80",
+    "difficulty": 1
+  },
+  {
+    "word": "either",
+    "meaning": "どちらか",
+    "difficulty": 2
+  },
+  {
+    "word": "elementary",
+    "meaning": "初歩の",
+    "difficulty": 2
+  },
+  {
+    "word": "elephant",
+    "meaning": "象",
+    "difficulty": 1
+  },
+  {
+    "word": "eleven",
+    "meaning": "11",
+    "difficulty": 1
+  },
+  {
+    "word": "else",
+    "meaning": "ほかに",
+    "difficulty": 1
+  },
+  {
+    "word": "email",
+    "meaning": "電子メール",
+    "difficulty": 1
+  },
+  {
+    "word": "end",
+    "meaning": "終わる",
+    "difficulty": 1
+  },
+  {
+    "word": "enjoy",
+    "meaning": "楽しむ",
+    "difficulty": 1
+  },
+  {
+    "word": "enough",
+    "meaning": "十分な",
+    "difficulty": 1
+  },
+  {
+    "word": "enter",
+    "meaning": "入る",
+    "difficulty": 1
+  },
+  {
+    "word": "entrance",
+    "meaning": "入り口",
+    "difficulty": 2
+  },
+  {
+    "word": "especially",
+    "meaning": "特に",
+    "difficulty": 2
+  },
+  {
+    "word": "even",
+    "meaning": "～でさえ",
+    "difficulty": 1
+  },
+  {
+    "word": "evening",
+    "meaning": "夕方",
+    "difficulty": 1
+  },
+  {
+    "word": "event",
+    "meaning": "行事",
+    "difficulty": 1
+  },
+  {
+    "word": "every",
+    "meaning": "すべての",
+    "difficulty": 1
+  },
+  {
+    "word": "everyone",
+    "meaning": "みんな",
+    "difficulty": 1
+  },
+  {
+    "word": "everything",
+    "meaning": "すべてのもの",
+    "difficulty": 1
+  },
+  {
+    "word": "example",
+    "meaning": "例",
+    "difficulty": 1
+  },
+  {
+    "word": "excited",
+    "meaning": "わくわくした",
+    "difficulty": 1
+  },
+  {
+    "word": "exciting",
+    "meaning": "わくわくさせる",
+    "difficulty": 1
+  },
+  {
+    "word": "excuse",
+    "meaning": "許す",
+    "difficulty": 1
+  },
+  {
+    "word": "eye",
+    "meaning": "目",
+    "difficulty": 1
+  },
+  {
+    "word": "face",
+    "meaning": "顔",
+    "difficulty": 1
+  },
+  {
+    "word": "fact",
+    "meaning": "事実",
+    "difficulty": 1
+  },
+  {
+    "word": "fall",
+    "meaning": "落ちる",
+    "difficulty": 1
+  },
+  {
+    "word": "family",
+    "meaning": "家族",
+    "difficulty": 1
+  },
+  {
+    "word": "famous",
+    "meaning": "有名な",
+    "difficulty": 1
+  },
+  {
+    "word": "far",
+    "meaning": "遠くに",
+    "difficulty": 1
+  },
+  {
+    "word": "farm",
+    "meaning": "農場",
+    "difficulty": 1
+  },
+  {
+    "word": "farmer",
+    "meaning": "農家",
+    "difficulty": 1
+  },
+  {
+    "word": "fast",
+    "meaning": "速い",
+    "difficulty": 1
+  },
+  {
+    "word": "father",
+    "meaning": "父",
+    "difficulty": 1
+  },
+  {
+    "word": "February",
+    "meaning": "2月",
+    "difficulty": 1
+  },
+  {
+    "word": "feel",
+    "meaning": "感じる",
+    "difficulty": 1
+  },
+  {
+    "word": "festival",
+    "meaning": "祭り",
+    "difficulty": 1
+  },
+  {
+    "word": "few",
+    "meaning": "少しの",
+    "difficulty": 1
+  },
+  {
+    "word": "field",
+    "meaning": "野原",
+    "difficulty": 1
+  },
+  {
+    "word": "fifteen",
+    "meaning": "15",
+    "difficulty": 1
+  },
+  {
+    "word": "fifth",
+    "meaning": "5番目",
+    "difficulty": 1
+  },
+  {
+    "word": "fifty",
+    "meaning": "50",
+    "difficulty": 1
+  },
+  {
+    "word": "fight",
+    "meaning": "戦う",
+    "difficulty": 1
+  },
+  {
+    "word": "fill",
+    "meaning": "満たす",
+    "difficulty": 1
+  },
+  {
+    "word": "film",
+    "meaning": "映画",
+    "difficulty": 1
+  },
+  {
+    "word": "final",
+    "meaning": "最後の",
+    "difficulty": 1
+  },
+  {
+    "word": "find",
+    "meaning": "見つける",
+    "difficulty": 1
+  },
+  {
+    "word": "fine",
+    "meaning": "元気な",
+    "difficulty": 1
+  },
+  {
+    "word": "finger",
+    "meaning": "指",
+    "difficulty": 1
+  },
+  {
+    "word": "finish",
+    "meaning": "終える",
+    "difficulty": 1
+  },
+  {
+    "word": "fire",
+    "meaning": "火",
+    "difficulty": 1
+  },
+  {
+    "word": "first",
+    "meaning": "最初の",
+    "difficulty": 1
+  },
+  {
+    "word": "fish",
+    "meaning": "魚",
+    "difficulty": 1
+  },
+  {
+    "word": "five",
+    "meaning": "5",
+    "difficulty": 1
+  },
+  {
+    "word": "floor",
+    "meaning": "床",
+    "difficulty": 1
+  },
+  {
+    "word": "flower",
+    "meaning": "花",
+    "difficulty": 1
+  },
+  {
+    "word": "fly",
+    "meaning": "飛ぶ",
+    "difficulty": 1
+  },
+  {
+    "word": "follow",
+    "meaning": "ついていく",
+    "difficulty": 1
+  },
+  {
+    "word": "food",
+    "meaning": "食べ物",
+    "difficulty": 1
+  },
+  {
+    "word": "foot",
+    "meaning": "足",
+    "difficulty": 1
+  },
+  {
+    "word": "football",
+    "meaning": "サッカー",
+    "difficulty": 1
+  },
+  {
+    "word": "for",
+    "meaning": "～のために",
+    "difficulty": 1
+  },
+  {
+    "word": "forest",
+    "meaning": "森",
+    "difficulty": 1
+  },
+  {
+    "word": "forget",
+    "meaning": "忘れる",
+    "difficulty": 1
+  },
+  {
+    "word": "fork",
+    "meaning": "フォーク",
+    "difficulty": 1
+  },
+  {
+    "word": "free",
+    "meaning": "自由な",
+    "difficulty": 1
+  },
+  {
+    "word": "Friday",
+    "meaning": "金曜日",
+    "difficulty": 1
+  },
+  {
+    "word": "friend",
+    "meaning": "友達",
+    "difficulty": 1
+  },
+  {
+    "word": "friendly",
+    "meaning": "親しみやすい",
+    "difficulty": 1
+  },
+  {
+    "word": "from",
+    "meaning": "～から",
+    "difficulty": 1
+  },
+  {
+    "word": "front",
+    "meaning": "前",
+    "difficulty": 1
+  },
+  {
+    "word": "fruit",
+    "meaning": "果物",
+    "difficulty": 1
+  },
+  {
+    "word": "full",
+    "meaning": "いっぱいの",
+    "difficulty": 1
+  },
+  {
+    "word": "fun",
+    "meaning": "楽しみ",
+    "difficulty": 1
+  },
+  {
+    "word": "funny",
+    "meaning": "おもしろい",
+    "difficulty": 1
+  },
+  {
+    "word": "future",
+    "meaning": "未来",
+    "difficulty": 1
+  },
+  {
+    "word": "game",
+    "meaning": "試合",
+    "difficulty": 1
+  },
+  {
+    "word": "garden",
+    "meaning": "庭",
+    "difficulty": 1
+  },
+  {
+    "word": "get",
+    "meaning": "得る",
+    "difficulty": 1
+  },
+  {
+    "word": "gift",
+    "meaning": "贈り物",
+    "difficulty": 1
+  },
+  {
+    "word": "girl",
+    "meaning": "少女",
+    "difficulty": 1
+  },
+  {
+    "word": "give",
+    "meaning": "与える",
+    "difficulty": 1
+  },
+  {
+    "word": "glad",
+    "meaning": "うれしい",
+    "difficulty": 1
+  },
+  {
+    "word": "glass",
+    "meaning": "コップ",
+    "difficulty": 1
+  },
+  {
+    "word": "go",
+    "meaning": "行く",
+    "difficulty": 1
+  },
+  {
+    "word": "goal",
+    "meaning": "目標",
+    "difficulty": 1
+  },
+  {
+    "word": "gold",
+    "meaning": "金",
+    "difficulty": 1
+  },
+  {
+    "word": "good",
+    "meaning": "よい",
+    "difficulty": 1
+  },
+  {
+    "word": "grandfather",
+    "meaning": "祖父",
+    "difficulty": 1
+  },
+  {
+    "word": "grandmother",
+    "meaning": "祖母",
+    "difficulty": 1
+  },
+  {
+    "word": "great",
+    "meaning": "すばらしい",
+    "difficulty": 1
+  },
+  {
+    "word": "green",
+    "meaning": "緑色",
+    "difficulty": 1
+  },
+  {
+    "word": "ground",
+    "meaning": "地面",
+    "difficulty": 1
+  },
+  {
+    "word": "group",
+    "meaning": "集団",
+    "difficulty": 1
+  },
+  {
+    "word": "grow",
+    "meaning": "育つ",
+    "difficulty": 1
+  },
+  {
+    "word": "guess",
+    "meaning": "推測する",
+    "difficulty": 1
+  },
+  {
+    "word": "guitar",
+    "meaning": "ギター",
+    "difficulty": 1
+  },
+  {
+    "word": "gym",
+    "meaning": "体育館",
+    "difficulty": 1
+  },
+  {
+    "word": "habit",
+    "meaning": "習慣",
+    "difficulty": 2
+  },
+  {
+    "word": "hair",
+    "meaning": "髪",
+    "difficulty": 1
+  },
+  {
+    "word": "half",
+    "meaning": "半分",
+    "difficulty": 1
+  },
+  {
+    "word": "hall",
+    "meaning": "廊下",
+    "difficulty": 1
+  },
+  {
+    "word": "ham",
+    "meaning": "ハム",
+    "difficulty": 1
+  },
+  {
+    "word": "hamburger",
+    "meaning": "ハンバーガー",
+    "difficulty": 1
+  },
+  {
+    "word": "hand",
+    "meaning": "手",
+    "difficulty": 1
+  },
+  {
+    "word": "happen",
+    "meaning": "起こる",
+    "difficulty": 1
+  },
+  {
+    "word": "happy",
+    "meaning": "幸せな",
+    "difficulty": 1
+  },
+  {
+    "word": "hard",
+    "meaning": "難しい",
+    "difficulty": 1
+  },
+  {
+    "word": "hat",
+    "meaning": "帽子",
+    "difficulty": 1
+  },
+  {
+    "word": "have",
+    "meaning": "持っている",
+    "difficulty": 1
+  },
+  {
+    "word": "he",
+    "meaning": "彼は",
+    "difficulty": 1
+  },
+  {
+    "word": "head",
+    "meaning": "頭",
+    "difficulty": 1
+  },
+  {
+    "word": "health",
+    "meaning": "健康",
+    "difficulty": 1
+  },
+  {
+    "word": "healthy",
+    "meaning": "健康な",
+    "difficulty": 1
+  },
+  {
+    "word": "hear",
+    "meaning": "聞こえる",
+    "difficulty": 1
+  },
+  {
+    "word": "heart",
+    "meaning": "心臓",
+    "difficulty": 1
+  },
+  {
+    "word": "help",
+    "meaning": "助ける",
+    "difficulty": 1
+  },
+  {
+    "word": "here",
+    "meaning": "ここに",
+    "difficulty": 1
+  },
+  {
+    "word": "high",
+    "meaning": "高い",
+    "difficulty": 1
+  },
+  {
+    "word": "hill",
+    "meaning": "丘",
+    "difficulty": 1
+  },
+  {
+    "word": "history",
+    "meaning": "歴史",
+    "difficulty": 1
+  },
+  {
+    "word": "hit",
+    "meaning": "打つ",
+    "difficulty": 1
+  },
+  {
+    "word": "hobby",
+    "meaning": "趣味",
+    "difficulty": 1
+  },
+  {
+    "word": "hold",
+    "meaning": "持つ",
+    "difficulty": 1
+  },
+  {
+    "word": "holiday",
+    "meaning": "休日",
+    "difficulty": 1
+  },
+  {
+    "word": "home",
+    "meaning": "家",
+    "difficulty": 1
+  },
+  {
+    "word": "hope",
+    "meaning": "望む",
+    "difficulty": 1
+  },
+  {
+    "word": "horse",
+    "meaning": "馬",
+    "difficulty": 1
+  },
+  {
+    "word": "hospital",
+    "meaning": "病院",
+    "difficulty": 1
+  },
+  {
+    "word": "hot",
+    "meaning": "暑い",
+    "difficulty": 1
+  },
+  {
+    "word": "hotel",
+    "meaning": "ホテル",
+    "difficulty": 1
+  },
+  {
+    "word": "hour",
+    "meaning": "時間",
+    "difficulty": 1
+  },
+  {
+    "word": "house",
+    "meaning": "家",
+    "difficulty": 1
+  },
+  {
+    "word": "how",
+    "meaning": "どのように",
+    "difficulty": 1
+  },
+  {
+    "word": "hundred",
+    "meaning": "100",
+    "difficulty": 1
+  },
+  {
+    "word": "hungry",
+    "meaning": "空腹の",
+    "difficulty": 1
+  },
+  {
+    "word": "husband",
+    "meaning": "夫",
+    "difficulty": 2
+  },
+  {
+    "word": "I",
+    "meaning": "私は",
+    "difficulty": 1
+  },
+  {
+    "word": "ice",
+    "meaning": "氷",
+    "difficulty": 1
+  },
+  {
+    "word": "idea",
+    "meaning": "考え",
+    "difficulty": 1
+  },
+  {
+    "word": "if",
+    "meaning": "もし～なら",
+    "difficulty": 1
+  },
+  {
+    "word": "important",
+    "meaning": "重要な",
+    "difficulty": 1
+  },
+  {
+    "word": "in",
+    "meaning": "～の中に",
+    "difficulty": 1
+  },
+  {
+    "word": "inside",
+    "meaning": "内側に",
+    "difficulty": 1
+  },
+  {
+    "word": "interesting",
+    "meaning": "おもしろい",
+    "difficulty": 1
+  },
+  {
+    "word": "into",
+    "meaning": "～の中へ",
+    "difficulty": 1
+  },
+  {
+    "word": "invite",
+    "meaning": "招待する",
+    "difficulty": 1
+  },
+  {
+    "word": "island",
+    "meaning": "島",
+    "difficulty": 1
+  },
+  {
+    "word": "it",
+    "meaning": "それは",
+    "difficulty": 1
+  },
+  {
+    "word": "January",
+    "meaning": "1月",
+    "difficulty": 1
+  },
+  {
+    "word": "Japan",
+    "meaning": "日本",
+    "difficulty": 1
+  },
+  {
+    "word": "Japanese",
+    "meaning": "日本語",
+    "difficulty": 1
+  },
+  {
+    "word": "job",
+    "meaning": "仕事",
+    "difficulty": 1
+  },
+  {
+    "word": "join",
+    "meaning": "参加する",
+    "difficulty": 1
+  },
+  {
+    "word": "juice",
+    "meaning": "ジュース",
+    "difficulty": 1
+  },
+  {
+    "word": "July",
+    "meaning": "7月",
+    "difficulty": 1
+  },
+  {
+    "word": "June",
+    "meaning": "6月",
+    "difficulty": 1
+  },
+  {
+    "word": "just",
+    "meaning": "ちょうど",
+    "difficulty": 1
+  },
+  {
+    "word": "keep",
+    "meaning": "保つ",
+    "difficulty": 1
+  },
+  {
+    "word": "kind",
+    "meaning": "親切な",
+    "difficulty": 1
+  },
+  {
+    "word": "king",
+    "meaning": "王",
+    "difficulty": 1
+  },
+  {
+    "word": "kitchen",
+    "meaning": "台所",
+    "difficulty": 1
+  },
+  {
+    "word": "know",
+    "meaning": "知っている",
+    "difficulty": 1
+  },
+  {
+    "word": "lake",
+    "meaning": "湖",
+    "difficulty": 1
+  },
+  {
+    "word": "land",
+    "meaning": "陸",
+    "difficulty": 1
+  },
+  {
+    "word": "language",
+    "meaning": "言語",
+    "difficulty": 1
+  },
+  {
+    "word": "large",
+    "meaning": "大きい",
+    "difficulty": 1
+  },
+  {
+    "word": "last",
+    "meaning": "最後の",
+    "difficulty": 1
+  },
+  {
+    "word": "late",
+    "meaning": "遅い",
+    "difficulty": 1
+  },
+  {
+    "word": "later",
+    "meaning": "後で",
+    "difficulty": 1
+  },
+  {
+    "word": "learn",
+    "meaning": "学ぶ",
+    "difficulty": 1
+  },
+  {
+    "word": "leave",
+    "meaning": "去る",
+    "difficulty": 1
+  },
+  {
+    "word": "left",
+    "meaning": "左",
+    "difficulty": 1
+  },
+  {
+    "word": "leg",
+    "meaning": "脚",
+    "difficulty": 1
+  },
+  {
+    "word": "lesson",
+    "meaning": "授業",
+    "difficulty": 1
+  },
+  {
+    "word": "library",
+    "meaning": "図書館",
+    "difficulty": 1
+  },
+  {
+    "word": "life",
+    "meaning": "生活",
+    "difficulty": 1
+  },
+  {
+    "word": "light",
+    "meaning": "光",
+    "difficulty": 1
+  },
+  {
+    "word": "like",
+    "meaning": "好き",
+    "difficulty": 1
+  },
+  {
+    "word": "line",
+    "meaning": "線",
+    "difficulty": 1
+  },
+  {
+    "word": "lion",
+    "meaning": "ライオン",
+    "difficulty": 1
+  },
+  {
+    "word": "listen",
+    "meaning": "聞く",
+    "difficulty": 1
+  },
+  {
+    "word": "little",
+    "meaning": "小さい",
+    "difficulty": 1
+  },
+  {
+    "word": "live",
+    "meaning": "住む",
+    "difficulty": 1
+  },
+  {
+    "word": "long",
+    "meaning": "長い",
+    "difficulty": 1
+  },
+  {
+    "word": "look",
+    "meaning": "見る",
+    "difficulty": 1
+  },
+  {
+    "word": "lose",
+    "meaning": "失う",
+    "difficulty": 1
+  },
+  {
+    "word": "love",
+    "meaning": "愛する",
+    "difficulty": 1
+  },
+  {
+    "word": "lunch",
+    "meaning": "昼食",
+    "difficulty": 1
+  },
+  {
+    "word": "machine",
+    "meaning": "機械",
+    "difficulty": 1
+  },
+  {
+    "word": "magazine",
+    "meaning": "雑誌",
+    "difficulty": 1
+  },
+  {
+    "word": "make",
+    "meaning": "作る",
+    "difficulty": 1
+  },
+  {
+    "word": "man",
+    "meaning": "男性",
+    "difficulty": 1
+  },
+  {
+    "word": "many",
+    "meaning": "たくさんの",
+    "difficulty": 1
+  },
+  {
+    "word": "map",
+    "meaning": "地図",
+    "difficulty": 1
+  },
+  {
+    "word": "March",
+    "meaning": "3月",
+    "difficulty": 1
+  },
+  {
+    "word": "market",
+    "meaning": "市場",
+    "difficulty": 1
+  },
+  {
+    "word": "math",
+    "meaning": "数学",
+    "difficulty": 1
+  },
+  {
+    "word": "May",
+    "meaning": "5月",
+    "difficulty": 1
+  },
+  {
+    "word": "maybe",
+    "meaning": "たぶん",
+    "difficulty": 1
+  },
+  {
+    "word": "mean",
+    "meaning": "意味する",
+    "difficulty": 1
+  },
+  {
+    "word": "meaning",
+    "meaning": "意味",
+    "difficulty": 1
+  },
+  {
+    "word": "meet",
+    "meaning": "会う",
+    "difficulty": 1
+  },
+  {
+    "word": "meeting",
+    "meaning": "会議",
+    "difficulty": 1
+  },
+  {
+    "word": "member",
+    "meaning": "一員",
+    "difficulty": 1
+  },
+  {
+    "word": "memory",
+    "meaning": "記憶",
+    "difficulty": 2
+  },
+  {
+    "word": "message",
+    "meaning": "伝言",
+    "difficulty": 1
+  },
+  {
+    "word": "middle",
+    "meaning": "中央",
+    "difficulty": 1
+  },
+  {
+    "word": "milk",
+    "meaning": "牛乳",
+    "difficulty": 1
+  },
+  {
+    "word": "minute",
+    "meaning": "分",
+    "difficulty": 1
+  },
+  {
+    "word": "Miss",
+    "meaning": "～さん",
+    "difficulty": 1
+  },
+  {
+    "word": "model",
+    "meaning": "模型",
+    "difficulty": 1
+  },
+  {
+    "word": "Monday",
+    "meaning": "月曜日",
+    "difficulty": 1
+  },
+  {
+    "word": "money",
+    "meaning": "お金",
+    "difficulty": 1
+  },
+  {
+    "word": "month",
+    "meaning": "月",
+    "difficulty": 1
+  },
+  {
+    "word": "moon",
+    "meaning": "月",
+    "difficulty": 1
+  },
+  {
+    "word": "morning",
+    "meaning": "朝",
+    "difficulty": 1
+  },
+  {
+    "word": "mother",
+    "meaning": "母",
+    "difficulty": 1
+  },
+  {
+    "word": "mountain",
+    "meaning": "山",
+    "difficulty": 1
+  },
+  {
+    "word": "mouse",
+    "meaning": "ねずみ",
+    "difficulty": 1
+  },
+  {
+    "word": "mouth",
+    "meaning": "口",
+    "difficulty": 1
+  },
+  {
+    "word": "move",
+    "meaning": "動く",
+    "difficulty": 1
+  },
+  {
+    "word": "movie",
+    "meaning": "映画",
+    "difficulty": 1
+  },
+  {
+    "word": "Mr.",
+    "meaning": "～氏",
+    "difficulty": 1
+  },
+  {
+    "word": "Mrs.",
+    "meaning": "～夫人",
+    "difficulty": 1
+  },
+  {
+    "word": "much",
+    "meaning": "たくさんの",
+    "difficulty": 1
+  },
+  {
+    "word": "music",
+    "meaning": "音楽",
+    "difficulty": 1
+  },
+  {
+    "word": "must",
+    "meaning": "～しなければならない",
+    "difficulty": 1
+  },
+  {
+    "word": "name",
+    "meaning": "名前",
+    "difficulty": 1
+  },
+  {
+    "word": "near",
+    "meaning": "近くに",
+    "difficulty": 1
+  },
+  {
+    "word": "need",
+    "meaning": "必要とする",
+    "difficulty": 1
+  },
+  {
+    "word": "never",
+    "meaning": "決して～ない",
+    "difficulty": 1
+  },
+  {
+    "word": "new",
+    "meaning": "新しい",
+    "difficulty": 1
+  },
+  {
+    "word": "news",
+    "meaning": "ニュース",
+    "difficulty": 1
+  },
+  {
+    "word": "next",
+    "meaning": "次の",
+    "difficulty": 1
+  },
+  {
+    "word": "nice",
+    "meaning": "すてきな",
+    "difficulty": 1
+  },
+  {
+    "word": "night",
+    "meaning": "夜",
+    "difficulty": 1
+  },
+  {
+    "word": "nine",
+    "meaning": "9",
+    "difficulty": 1
+  },
+  {
+    "word": "nineteen",
+    "meaning": "19",
+    "difficulty": 1
+  },
+  {
+    "word": "ninety",
+    "meaning": "90",
+    "difficulty": 1
+  },
+  {
+    "word": "ninth",
+    "meaning": "9番目",
+    "difficulty": 1
+  },
+  {
+    "word": "no",
+    "meaning": "いいえ",
+    "difficulty": 1
+  },
+  {
+    "word": "noise",
+    "meaning": "騒音",
+    "difficulty": 1
+  },
+  {
+    "word": "noodle",
+    "meaning": "麺",
+    "difficulty": 1
+  },
+  {
+    "word": "north",
+    "meaning": "北",
+    "difficulty": 1
+  },
+  {
+    "word": "nose",
+    "meaning": "鼻",
+    "difficulty": 1
+  },
+  {
+    "word": "not",
+    "meaning": "～でない",
+    "difficulty": 1
+  },
+  {
+    "word": "November",
+    "meaning": "11月",
+    "difficulty": 1
+  },
+  {
+    "word": "now",
+    "meaning": "今",
+    "difficulty": 1
+  },
+  {
+    "word": "number",
+    "meaning": "数字",
+    "difficulty": 1
+  },
+  {
+    "word": "October",
+    "meaning": "10月",
+    "difficulty": 1
+  },
+  {
+    "word": "of",
+    "meaning": "～の",
+    "difficulty": 1
+  },
+  {
+    "word": "off",
+    "meaning": "離れて",
+    "difficulty": 1
+  },
+  {
+    "word": "often",
+    "meaning": "しばしば",
+    "difficulty": 1
+  },
+  {
+    "word": "old",
+    "meaning": "古い",
+    "difficulty": 1
+  },
+  {
+    "word": "on",
+    "meaning": "～の上に",
+    "difficulty": 1
+  },
+  {
+    "word": "once",
+    "meaning": "一度",
+    "difficulty": 1
+  },
+  {
+    "word": "one",
+    "meaning": "1",
+    "difficulty": 1
+  },
+  {
+    "word": "only",
+    "meaning": "ただ～だけ",
+    "difficulty": 1
+  },
+  {
+    "word": "open",
+    "meaning": "開ける",
+    "difficulty": 1
+  },
+  {
+    "word": "or",
+    "meaning": "または",
+    "difficulty": 1
+  },
+  {
+    "word": "orange",
+    "meaning": "オレンジ",
+    "difficulty": 1
+  },
+  {
+    "word": "order",
+    "meaning": "注文する",
+    "difficulty": 1
+  },
+  {
+    "word": "other",
+    "meaning": "ほかの",
+    "difficulty": 1
+  },
+  {
+    "word": "our",
+    "meaning": "私たちの",
+    "difficulty": 1
+  },
+  {
+    "word": "out",
+    "meaning": "外へ",
+    "difficulty": 1
+  },
+  {
+    "word": "outside",
+    "meaning": "外側に",
+    "difficulty": 1
+  },
+  {
+    "word": "over",
+    "meaning": "～の上方に",
+    "difficulty": 1
+  },
+  {
+    "word": "own",
+    "meaning": "自分自身の",
+    "difficulty": 1
+  },
+  {
+    "word": "page",
+    "meaning": "ページ",
+    "difficulty": 1
+  },
+  {
+    "word": "paint",
+    "meaning": "絵の具",
+    "difficulty": 1
+  },
+  {
+    "word": "pair",
+    "meaning": "一組",
+    "difficulty": 1
+  },
+  {
+    "word": "paper",
+    "meaning": "紙",
+    "difficulty": 1
+  },
+  {
+    "word": "parent",
+    "meaning": "親",
+    "difficulty": 1
+  },
+  {
+    "word": "park",
+    "meaning": "公園",
+    "difficulty": 1
+  },
+  {
+    "word": "part",
+    "meaning": "部分",
+    "difficulty": 1
+  },
+  {
+    "word": "party",
+    "meaning": "パーティー",
+    "difficulty": 1
+  },
+  {
+    "word": "past",
+    "meaning": "過去",
+    "difficulty": 1
+  },
+  {
+    "word": "peace",
+    "meaning": "平和",
+    "difficulty": 1
+  },
+  {
+    "word": "pen",
+    "meaning": "ペン",
+    "difficulty": 1
+  },
+  {
+    "word": "pencil",
+    "meaning": "鉛筆",
+    "difficulty": 1
+  },
+  {
+    "word": "people",
+    "meaning": "人々",
+    "difficulty": 1
+  },
+  {
+    "word": "person",
+    "meaning": "人",
+    "difficulty": 1
+  },
+  {
+    "word": "phone",
+    "meaning": "電話",
+    "difficulty": 1
+  },
+  {
+    "word": "photo",
+    "meaning": "写真",
+    "difficulty": 1
+  },
+  {
+    "word": "piano",
+    "meaning": "ピアノ",
+    "difficulty": 1
+  },
+  {
+    "word": "pick",
+    "meaning": "選ぶ",
+    "difficulty": 1
+  },
+  {
+    "word": "picture",
+    "meaning": "絵",
+    "difficulty": 1
+  },
+  {
+    "word": "piece",
+    "meaning": "一片",
+    "difficulty": 2
+  },
+  {
+    "word": "place",
+    "meaning": "場所",
+    "difficulty": 1
+  },
+  {
+    "word": "plan",
+    "meaning": "計画",
+    "difficulty": 1
+  },
+  {
+    "word": "plane",
+    "meaning": "飛行機",
+    "difficulty": 1
+  },
+  {
+    "word": "plant",
+    "meaning": "植物",
+    "difficulty": 1
+  },
+  {
+    "word": "play",
+    "meaning": "遊ぶ",
+    "difficulty": 1
+  },
+  {
+    "word": "player",
+    "meaning": "選手",
+    "difficulty": 1
+  },
+  {
+    "word": "please",
+    "meaning": "どうぞ",
+    "difficulty": 1
+  },
+  {
+    "word": "point",
+    "meaning": "点",
+    "difficulty": 1
+  },
+  {
+    "word": "police",
+    "meaning": "警察",
+    "difficulty": 1
+  },
+  {
+    "word": "pool",
+    "meaning": "プール",
+    "difficulty": 1
+  },
+  {
+    "word": "poor",
+    "meaning": "貧しい",
+    "difficulty": 1
+  },
+  {
+    "word": "popular",
+    "meaning": "人気のある",
+    "difficulty": 1
+  },
+  {
+    "word": "possible",
+    "meaning": "可能な",
+    "difficulty": 1
+  },
+  {
+    "word": "post",
+    "meaning": "郵便",
+    "difficulty": 1
+  },
+  {
+    "word": "practice",
+    "meaning": "練習する",
+    "difficulty": 1
+  },
+  {
+    "word": "prepare",
+    "meaning": "準備する",
+    "difficulty": 1
+  },
+  {
+    "word": "present",
+    "meaning": "贈り物",
+    "difficulty": 1
+  },
+  {
+    "word": "pretty",
+    "meaning": "かわいい",
+    "difficulty": 1
+  },
+  {
+    "word": "problem",
+    "meaning": "問題",
+    "difficulty": 1
+  },
+  {
+    "word": "program",
+    "meaning": "番組",
+    "difficulty": 1
+  },
+  {
+    "word": "project",
+    "meaning": "計画",
+    "difficulty": 2
+  },
+  {
+    "word": "puppy",
+    "meaning": "子犬",
+    "difficulty": 1
+  },
+  {
+    "word": "purple",
+    "meaning": "紫色",
+    "difficulty": 1
+  },
+  {
+    "word": "put",
+    "meaning": "置く",
+    "difficulty": 1
+  },
+  {
+    "word": "question",
+    "meaning": "質問",
+    "difficulty": 1
+  },
+  {
+    "word": "quick",
+    "meaning": "素早い",
+    "difficulty": 1
+  },
+  {
+    "word": "quiet",
+    "meaning": "静かな",
+    "difficulty": 1
+  },
+  {
+    "word": "quite",
+    "meaning": "かなり",
+    "difficulty": 1
+  },
+  {
+    "word": "quiz",
+    "meaning": "小テスト",
+    "difficulty": 1
+  },
+  {
+    "word": "radio",
+    "meaning": "ラジオ",
+    "difficulty": 1
+  },
+  {
+    "word": "rain",
+    "meaning": "雨",
+    "difficulty": 1
+  },
+  {
+    "word": "read",
+    "meaning": "読む",
+    "difficulty": 1
+  },
+  {
+    "word": "ready",
+    "meaning": "準備ができた",
+    "difficulty": 1
+  },
+  {
+    "word": "really",
+    "meaning": "本当に",
+    "difficulty": 1
+  },
+  {
+    "word": "reason",
+    "meaning": "理由",
+    "difficulty": 1
+  },
+  {
+    "word": "red",
+    "meaning": "赤い",
+    "difficulty": 1
+  },
+  {
+    "word": "remember",
+    "meaning": "覚えている",
+    "difficulty": 1
+  },
+  {
+    "word": "restaurant",
+    "meaning": "レストラン",
+    "difficulty": 1
+  },
+  {
+    "word": "rice",
+    "meaning": "米",
+    "difficulty": 1
+  },
+  {
+    "word": "rich",
+    "meaning": "裕福な",
+    "difficulty": 1
+  },
+  {
+    "word": "ride",
+    "meaning": "乗る",
+    "difficulty": 1
+  },
+  {
+    "word": "right",
+    "meaning": "右",
+    "difficulty": 1
+  },
+  {
+    "word": "river",
+    "meaning": "川",
+    "difficulty": 1
+  },
+  {
+    "word": "road",
+    "meaning": "道路",
+    "difficulty": 1
+  },
+  {
+    "word": "room",
+    "meaning": "部屋",
+    "difficulty": 1
+  },
+  {
+    "word": "round",
+    "meaning": "丸い",
+    "difficulty": 1
+  },
+  {
+    "word": "rule",
+    "meaning": "規則",
+    "difficulty": 1
+  },
+  {
+    "word": "run",
+    "meaning": "走る",
+    "difficulty": 1
+  },
+  {
+    "word": "sad",
+    "meaning": "悲しい",
+    "difficulty": 1
+  },
+  {
+    "word": "Saturday",
+    "meaning": "土曜日",
+    "difficulty": 1
+  },
+  {
+    "word": "save",
+    "meaning": "救う",
+    "difficulty": 1
+  },
+  {
+    "word": "say",
+    "meaning": "言う",
+    "difficulty": 1
+  },
+  {
+    "word": "school",
+    "meaning": "学校",
+    "difficulty": 1
+  },
+  {
+    "word": "science",
+    "meaning": "科学",
+    "difficulty": 1
+  },
+  {
+    "word": "sea",
+    "meaning": "海",
+    "difficulty": 1
+  },
+  {
+    "word": "season",
+    "meaning": "季節",
+    "difficulty": 1
+  },
+  {
+    "word": "second",
+    "meaning": "2番目",
+    "difficulty": 1
+  },
+  {
+    "word": "see",
+    "meaning": "見る",
+    "difficulty": 1
+  },
+  {
+    "word": "sell",
+    "meaning": "売る",
+    "difficulty": 1
+  },
+  {
+    "word": "send",
+    "meaning": "送る",
+    "difficulty": 1
+  },
+  {
+    "word": "September",
+    "meaning": "9月",
+    "difficulty": 1
+  },
+  {
+    "word": "seven",
+    "meaning": "7",
+    "difficulty": 1
+  },
+  {
+    "word": "seventeen",
+    "meaning": "17",
+    "difficulty": 1
+  },
+  {
+    "word": "seventh",
+    "meaning": "7番目",
+    "difficulty": 1
+  },
+  {
+    "word": "seventy",
+    "meaning": "70",
+    "difficulty": 1
+  },
+  {
+    "word": "several",
+    "meaning": "いくつかの",
+    "difficulty": 1
+  },
+  {
+    "word": "she",
+    "meaning": "彼女は",
+    "difficulty": 1
+  },
+  {
+    "word": "ship",
+    "meaning": "船",
+    "difficulty": 1
+  },
+  {
+    "word": "shirt",
+    "meaning": "シャツ",
+    "difficulty": 1
+  },
+  {
+    "word": "shoe",
+    "meaning": "靴",
+    "difficulty": 1
+  },
+  {
+    "word": "shop",
+    "meaning": "店",
+    "difficulty": 1
+  },
+  {
+    "word": "short",
+    "meaning": "短い",
+    "difficulty": 1
+  },
+  {
+    "word": "should",
+    "meaning": "～すべきだ",
+    "difficulty": 1
+  },
+  {
+    "word": "show",
+    "meaning": "見せる",
+    "difficulty": 1
+  },
+  {
+    "word": "shower",
+    "meaning": "シャワー",
+    "difficulty": 1
+  },
+  {
+    "word": "sick",
+    "meaning": "病気の",
+    "difficulty": 1
+  },
+  {
+    "word": "sing",
+    "meaning": "歌う",
+    "difficulty": 1
+  },
+  {
+    "word": "singer",
+    "meaning": "歌手",
+    "difficulty": 1
+  },
+  {
+    "word": "sister",
+    "meaning": "姉妹",
+    "difficulty": 1
+  },
+  {
+    "word": "sit",
+    "meaning": "座る",
+    "difficulty": 1
+  },
+  {
+    "word": "six",
+    "meaning": "6",
+    "difficulty": 1
+  },
+  {
+    "word": "sixteen",
+    "meaning": "16",
+    "difficulty": 1
+  },
+  {
+    "word": "sixth",
+    "meaning": "6番目",
+    "difficulty": 1
+  },
+  {
+    "word": "sixty",
+    "meaning": "60",
+    "difficulty": 1
+  },
+  {
+    "word": "sky",
+    "meaning": "空",
+    "difficulty": 1
+  },
+  {
+    "word": "sleep",
+    "meaning": "眠る",
+    "difficulty": 1
+  },
+  {
+    "word": "small",
+    "meaning": "小さい",
+    "difficulty": 1
+  },
+  {
+    "word": "smile",
+    "meaning": "ほほえむ",
+    "difficulty": 1
+  },
+  {
+    "word": "snow",
+    "meaning": "雪",
+    "difficulty": 1
+  },
+  {
+    "word": "so",
+    "meaning": "とても",
+    "difficulty": 1
+  },
+  {
+    "word": "soccer",
+    "meaning": "サッカー",
+    "difficulty": 1
+  },
+  {
+    "word": "some",
+    "meaning": "いくつかの",
+    "difficulty": 1
+  },
+  {
+    "word": "someone",
+    "meaning": "だれか",
+    "difficulty": 1
+  },
+  {
+    "word": "something",
+    "meaning": "何か",
+    "difficulty": 1
+  },
+  {
+    "word": "sometimes",
+    "meaning": "ときどき",
+    "difficulty": 1
+  },
+  {
+    "word": "son",
+    "meaning": "息子",
+    "difficulty": 1
+  },
+  {
+    "word": "song",
+    "meaning": "歌",
+    "difficulty": 1
+  },
+  {
+    "word": "soon",
+    "meaning": "すぐに",
+    "difficulty": 1
+  },
+  {
+    "word": "sorry",
+    "meaning": "ごめんなさい",
+    "difficulty": 1
+  },
+  {
+    "word": "sound",
+    "meaning": "音",
+    "difficulty": 1
+  },
+  {
+    "word": "south",
+    "meaning": "南",
+    "difficulty": 1
+  },
+  {
+    "word": "space",
+    "meaning": "宇宙",
+    "difficulty": 1
+  },
+  {
+    "word": "speak",
+    "meaning": "話す",
+    "difficulty": 1
+  },
+  {
+    "word": "special",
+    "meaning": "特別な",
+    "difficulty": 1
+  },
+  {
+    "word": "spell",
+    "meaning": "つづる",
+    "difficulty": 1
+  },
+  {
+    "word": "spend",
+    "meaning": "費やす",
+    "difficulty": 1
+  },
+  {
+    "word": "sport",
+    "meaning": "スポーツ",
+    "difficulty": 1
+  },
+  {
+    "word": "spring",
+    "meaning": "春",
+    "difficulty": 1
+  },
+  {
+    "word": "stand",
+    "meaning": "立つ",
+    "difficulty": 1
+  },
+  {
+    "word": "star",
+    "meaning": "星",
+    "difficulty": 1
+  },
+  {
+    "word": "start",
+    "meaning": "始める",
+    "difficulty": 1
+  },
+  {
+    "word": "station",
+    "meaning": "駅",
+    "difficulty": 1
+  },
+  {
+    "word": "stay",
+    "meaning": "滞在する",
+    "difficulty": 1
+  },
+  {
+    "word": "step",
+    "meaning": "一歩",
+    "difficulty": 1
+  },
+  {
+    "word": "still",
+    "meaning": "まだ",
+    "difficulty": 1
+  },
+  {
+    "word": "stop",
+    "meaning": "止まる",
+    "difficulty": 1
+  },
+  {
+    "word": "story",
+    "meaning": "物語",
+    "difficulty": 1
+  },
+  {
+    "word": "street",
+    "meaning": "通り",
+    "difficulty": 1
+  },
+  {
+    "word": "strong",
+    "meaning": "強い",
+    "difficulty": 1
+  },
+  {
+    "word": "student",
+    "meaning": "生徒",
+    "difficulty": 1
+  },
+  {
+    "word": "study",
+    "meaning": "勉強する",
+    "difficulty": 1
+  },
+  {
+    "word": "subject",
+    "meaning": "教科",
+    "difficulty": 1
+  },
+  {
+    "word": "summer",
+    "meaning": "夏",
+    "difficulty": 1
+  },
+  {
+    "word": "Sunday",
+    "meaning": "日曜日",
+    "difficulty": 1
+  },
+  {
+    "word": "supermarket",
+    "meaning": "スーパーマーケット",
+    "difficulty": 1
+  },
+  {
+    "word": "sure",
+    "meaning": "確信して",
+    "difficulty": 1
+  },
+  {
+    "word": "surprise",
+    "meaning": "驚かせる",
+    "difficulty": 1
+  },
+  {
+    "word": "swim",
+    "meaning": "泳ぐ",
+    "difficulty": 1
+  },
+  {
+    "word": "swimmer",
+    "meaning": "水泳選手",
+    "difficulty": 1
+  },
+  {
+    "word": "table",
+    "meaning": "テーブル",
+    "difficulty": 1
+  },
+  {
+    "word": "take",
+    "meaning": "取る",
+    "difficulty": 1
+  },
+  {
+    "word": "talk",
+    "meaning": "話す",
+    "difficulty": 1
+  },
+  {
+    "word": "tall",
+    "meaning": "背が高い",
+    "difficulty": 1
+  },
+  {
+    "word": "tea",
+    "meaning": "お茶",
+    "difficulty": 1
+  },
+  {
+    "word": "teach",
+    "meaning": "教える",
+    "difficulty": 1
+  },
+  {
+    "word": "teacher",
+    "meaning": "先生",
+    "difficulty": 1
+  },
+  {
+    "word": "team",
+    "meaning": "チーム",
+    "difficulty": 1
+  },
+  {
+    "word": "teenager",
+    "meaning": "10代の若者",
+    "difficulty": 1
+  },
+  {
+    "word": "telephone",
+    "meaning": "電話",
+    "difficulty": 1
+  },
+  {
+    "word": "television",
+    "meaning": "テレビ",
+    "difficulty": 1
+  },
+  {
+    "word": "tell",
+    "meaning": "伝える",
+    "difficulty": 1
+  },
+  {
+    "word": "ten",
+    "meaning": "10",
+    "difficulty": 1
+  },
+  {
+    "word": "tennis",
+    "meaning": "テニス",
+    "difficulty": 1
+  },
+  {
+    "word": "tenth",
+    "meaning": "10番目",
+    "difficulty": 1
+  },
+  {
+    "word": "test",
+    "meaning": "テスト",
+    "difficulty": 1
+  },
+  {
+    "word": "than",
+    "meaning": "～より",
+    "difficulty": 1
+  },
+  {
+    "word": "thank",
+    "meaning": "感謝する",
+    "difficulty": 1
+  },
+  {
+    "word": "that",
+    "meaning": "あれ",
+    "difficulty": 1
+  },
+  {
+    "word": "the",
+    "meaning": "その",
+    "difficulty": 1
+  },
+  {
+    "word": "their",
+    "meaning": "彼らの",
+    "difficulty": 1
+  },
+  {
+    "word": "them",
+    "meaning": "彼らを",
+    "difficulty": 1
+  },
+  {
+    "word": "then",
+    "meaning": "そのとき",
+    "difficulty": 1
+  },
+  {
+    "word": "there",
+    "meaning": "そこに",
+    "difficulty": 1
+  },
+  {
+    "word": "these",
+    "meaning": "これら",
+    "difficulty": 1
+  },
+  {
+    "word": "they",
+    "meaning": "彼らは",
+    "difficulty": 1
+  },
+  {
+    "word": "thing",
+    "meaning": "もの",
+    "difficulty": 1
+  },
+  {
+    "word": "think",
+    "meaning": "考える",
+    "difficulty": 1
+  },
+  {
+    "word": "third",
+    "meaning": "3番目",
+    "difficulty": 1
+  },
+  {
+    "word": "thirteen",
+    "meaning": "13",
+    "difficulty": 1
+  },
+  {
+    "word": "thirty",
+    "meaning": "30",
+    "difficulty": 1
+  },
+  {
+    "word": "this",
+    "meaning": "これ",
+    "difficulty": 1
+  },
+  {
+    "word": "those",
+    "meaning": "あれら",
+    "difficulty": 1
+  },
+  {
+    "word": "thousand",
+    "meaning": "1000",
+    "difficulty": 1
+  },
+  {
+    "word": "three",
+    "meaning": "3",
+    "difficulty": 1
+  },
+  {
+    "word": "Thursday",
+    "meaning": "木曜日",
+    "difficulty": 1
+  },
+  {
+    "word": "ticket",
+    "meaning": "切符",
+    "difficulty": 1
+  },
+  {
+    "word": "time",
+    "meaning": "時間",
+    "difficulty": 1
+  },
+  {
+    "word": "today",
+    "meaning": "今日",
+    "difficulty": 1
+  },
+  {
+    "word": "together",
+    "meaning": "一緒に",
+    "difficulty": 1
+  },
+  {
+    "word": "tomorrow",
+    "meaning": "明日",
+    "difficulty": 1
+  },
+  {
+    "word": "tonight",
+    "meaning": "今夜",
+    "difficulty": 1
+  },
+  {
+    "word": "too",
+    "meaning": "～もまた",
+    "difficulty": 1
+  },
+  {
+    "word": "tooth",
+    "meaning": "歯",
+    "difficulty": 1
+  },
+  {
+    "word": "toothbrush",
+    "meaning": "歯ブラシ",
+    "difficulty": 1
+  },
+  {
+    "word": "top",
+    "meaning": "頂上",
+    "difficulty": 1
+  },
+  {
+    "word": "town",
+    "meaning": "町",
+    "difficulty": 1
+  },
+  {
+    "word": "train",
+    "meaning": "列車",
+    "difficulty": 1
+  },
+  {
+    "word": "travel",
+    "meaning": "旅行する",
+    "difficulty": 1
+  },
+  {
+    "word": "tree",
+    "meaning": "木",
+    "difficulty": 1
+  },
+  {
+    "word": "trip",
+    "meaning": "旅行",
+    "difficulty": 1
+  },
+  {
+    "word": "try",
+    "meaning": "試す",
+    "difficulty": 1
+  },
+  {
+    "word": "Tuesday",
+    "meaning": "火曜日",
+    "difficulty": 1
+  },
+  {
+    "word": "turn",
+    "meaning": "曲がる",
+    "difficulty": 1
+  },
+  {
+    "word": "twelve",
+    "meaning": "12",
+    "difficulty": 1
+  },
+  {
+    "word": "twentieth",
+    "meaning": "20番目",
+    "difficulty": 1
+  },
+  {
+    "word": "twenty",
+    "meaning": "20",
+    "difficulty": 1
+  },
+  {
+    "word": "twice",
+    "meaning": "2回",
+    "difficulty": 1
+  },
+  {
+    "word": "two",
+    "meaning": "2",
+    "difficulty": 1
+  },
+  {
+    "word": "umbrella",
+    "meaning": "傘",
+    "difficulty": 1
+  },
+  {
+    "word": "uncle",
+    "meaning": "おじ",
+    "difficulty": 1
+  },
+  {
+    "word": "under",
+    "meaning": "～の下に",
+    "difficulty": 1
+  },
+  {
+    "word": "understand",
+    "meaning": "理解する",
+    "difficulty": 1
+  },
+  {
+    "word": "until",
+    "meaning": "～まで",
+    "difficulty": 1
+  },
+  {
+    "word": "up",
+    "meaning": "上へ",
+    "difficulty": 1
+  },
+  {
+    "word": "us",
+    "meaning": "私たちを",
+    "difficulty": 1
+  },
+  {
+    "word": "use",
+    "meaning": "使う",
+    "difficulty": 1
+  },
+  {
+    "word": "useful",
+    "meaning": "役に立つ",
+    "difficulty": 1
+  },
+  {
+    "word": "usually",
+    "meaning": "たいてい",
+    "difficulty": 1
+  },
+  {
+    "word": "vacation",
+    "meaning": "休暇",
+    "difficulty": 1
+  },
+  {
+    "word": "vegetable",
+    "meaning": "野菜",
+    "difficulty": 1
+  },
+  {
+    "word": "very",
+    "meaning": "とても",
+    "difficulty": 1
+  },
+  {
+    "word": "video",
+    "meaning": "ビデオ",
+    "difficulty": 1
+  },
+  {
+    "word": "village",
+    "meaning": "村",
+    "difficulty": 1
+  },
+  {
+    "word": "visit",
+    "meaning": "訪れる",
+    "difficulty": 1
+  },
+  {
+    "word": "visitor",
+    "meaning": "訪問者",
+    "difficulty": 1
+  },
+  {
+    "word": "voice",
+    "meaning": "声",
+    "difficulty": 1
+  },
+  {
+    "word": "wait",
+    "meaning": "待つ",
+    "difficulty": 1
+  },
+  {
+    "word": "walk",
+    "meaning": "歩く",
+    "difficulty": 1
+  },
+  {
+    "word": "wall",
+    "meaning": "壁",
+    "difficulty": 1
+  },
+  {
+    "word": "want",
+    "meaning": "欲しい",
+    "difficulty": 1
+  },
+  {
+    "word": "warm",
+    "meaning": "暖かい",
+    "difficulty": 1
+  },
+  {
+    "word": "wash",
+    "meaning": "洗う",
+    "difficulty": 1
+  },
+  {
+    "word": "watch",
+    "meaning": "見る",
+    "difficulty": 1
+  },
+  {
+    "word": "water",
+    "meaning": "水",
+    "difficulty": 1
+  },
+  {
+    "word": "way",
+    "meaning": "方法",
+    "difficulty": 1
+  },
+  {
+    "word": "we",
+    "meaning": "私たちは",
+    "difficulty": 1
+  },
+  {
+    "word": "wear",
+    "meaning": "身につける",
+    "difficulty": 1
+  },
+  {
+    "word": "weather",
+    "meaning": "天気",
+    "difficulty": 1
+  },
+  {
+    "word": "Wednesday",
+    "meaning": "水曜日",
+    "difficulty": 1
+  },
+  {
+    "word": "week",
+    "meaning": "週",
+    "difficulty": 1
+  },
+  {
+    "word": "weekend",
+    "meaning": "週末",
+    "difficulty": 1
+  },
+  {
+    "word": "welcome",
+    "meaning": "歓迎する",
+    "difficulty": 1
+  },
+  {
+    "word": "well",
+    "meaning": "上手に",
+    "difficulty": 1
+  },
+  {
+    "word": "west",
+    "meaning": "西",
+    "difficulty": 1
+  },
+  {
+    "word": "what",
+    "meaning": "何",
+    "difficulty": 1
+  },
+  {
+    "word": "when",
+    "meaning": "いつ",
+    "difficulty": 1
+  },
+  {
+    "word": "where",
+    "meaning": "どこ",
+    "difficulty": 1
+  },
+  {
+    "word": "which",
+    "meaning": "どちら",
+    "difficulty": 1
+  },
+  {
+    "word": "white",
+    "meaning": "白い",
+    "difficulty": 1
+  },
+  {
+    "word": "who",
+    "meaning": "だれ",
+    "difficulty": 1
+  },
+  {
+    "word": "whose",
+    "meaning": "だれの",
+    "difficulty": 1
+  },
+  {
+    "word": "why",
+    "meaning": "なぜ",
+    "difficulty": 1
+  },
+  {
+    "word": "wife",
+    "meaning": "妻",
+    "difficulty": 1
+  },
+  {
+    "word": "will",
+    "meaning": "～するつもりだ",
+    "difficulty": 1
+  },
+  {
+    "word": "win",
+    "meaning": "勝つ",
+    "difficulty": 1
+  },
+  {
+    "word": "wind",
+    "meaning": "風",
+    "difficulty": 1
+  },
+  {
+    "word": "window",
+    "meaning": "窓",
+    "difficulty": 1
+  },
+  {
+    "word": "winter",
+    "meaning": "冬",
+    "difficulty": 1
+  },
+  {
+    "word": "with",
+    "meaning": "～と一緒に",
+    "difficulty": 1
+  },
+  {
+    "word": "woman",
+    "meaning": "女性",
+    "difficulty": 1
+  },
+  {
+    "word": "wonderful",
+    "meaning": "すばらしい",
+    "difficulty": 1
+  },
+  {
+    "word": "word",
+    "meaning": "単語",
+    "difficulty": 1
+  },
+  {
+    "word": "work",
+    "meaning": "働く",
+    "difficulty": 1
+  },
+  {
+    "word": "world",
+    "meaning": "世界",
+    "difficulty": 1
+  },
+  {
+    "word": "write",
+    "meaning": "書く",
+    "difficulty": 1
+  },
+  {
+    "word": "writer",
+    "meaning": "作家",
+    "difficulty": 1
+  },
+  {
+    "word": "year",
+    "meaning": "年",
+    "difficulty": 1
+  },
+  {
+    "word": "yellow",
+    "meaning": "黄色",
+    "difficulty": 1
+  },
+  {
+    "word": "yes",
+    "meaning": "はい",
+    "difficulty": 1
+  },
+  {
+    "word": "yesterday",
+    "meaning": "昨日",
+    "difficulty": 1
+  },
+  {
+    "word": "you",
+    "meaning": "あなたは",
+    "difficulty": 1
+  },
+  {
+    "word": "young",
+    "meaning": "若い",
+    "difficulty": 1
+  },
+  {
+    "word": "your",
+    "meaning": "あなたの",
+    "difficulty": 1
+  },
+  {
+    "word": "yourself",
+    "meaning": "あなた自身",
+    "difficulty": 2
+  },
+  {
+    "word": "zoo",
+    "meaning": "動物園",
+    "difficulty": 1
+  }
+]
